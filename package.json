@@ -1,0 +1,15 @@
+{
+  "name": "download1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "down.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^6.2.5",
+    "fs": "0.0.1-security"
+  }
+}
